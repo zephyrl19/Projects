@@ -1,7 +1,7 @@
 # Projects
 Language:C++
 Author: Austin Crow
-Purporse: CS 261 Assignment
+Purpose: CS 261 Assignment
 
 
 Folder Contains Header and Source files
